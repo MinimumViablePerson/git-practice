@@ -8,4 +8,14 @@
 - [x] Create a README file
 - [x] Stage our changes
 - [x] Commit our staged files
-- [ ] Push changes remotely
+- [x] Push changes remotely
+
+### Navigating history
+- [x] Checkout a previous Commit
+- [x] Go back to the branch HEAD
+
+### Branching & Merging
+- [x] Create a new branch
+- [x] Switch between branches
+- [x] Stage/commit on different branches
+- [ ]
